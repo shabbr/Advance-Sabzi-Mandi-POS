@@ -1,0 +1,4 @@
+addProduct page
+
+width in select tag = 100%;
+sidebar pe=0

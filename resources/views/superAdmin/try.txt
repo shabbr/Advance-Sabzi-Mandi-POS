@@ -1,0 +1,172 @@
+INSERT INTO `customers` (`id`, `name`, `phone`, `area`, `status`, `created_at`, `updated_at`) VALUES
+ (NULL, 'حمزہ سرور' , '03123456789', 'سرگودھا', 'active', '2024-04-28 22:26:40', '2024-04-28 22:26:40');
+INSERT INTO `customers` (`id`, `name`, `phone`, `area`, `status`, `created_at`, `updated_at`) VALUES
+ (NULL, 'حمزہ سرور' , '03123456789', 'سرگودھا', 'active', '2024-04-28 22:26:40', '2024-04-28 22:26:40');
+INSERT INTO `customers` (`id`, `name`, `phone`, `area`, `status`, `created_at`, `updated_at`) VALUES
+ (NULL, 'حمزہ سرور' , '03123456789', 'سرگودھا', 'active', '2024-04-28 22:26:40', '2024-04-28 22:26:40');
+
+INSERT INTO `customers` (`id`, `name`, `phone`, `area`, `status`, `created_at`, `updated_at`) VALUES
+ (NULL, 'حمزہ سرور' , '03123456789', 'سرگودھا', 'active', '2024-04-28 22:26:40', '2024-04-28 22:26:40');
+INSERT INTO `customers` (`id`, `name`, `phone`, `area`, `status`, `created_at`, `updated_at`) VALUES
+ (NULL, 'حمزہ سرور' , '03123456789', 'سرگودھا', 'active', '2024-04-28 22:26:40', '2024-04-28 22:26:40');
+INSERT INTO `customers` (`id`, `name`, `phone`, `area`, `status`, `created_at`, `updated_at`) VALUES
+ (NULL, 'حمزہ سرور' , '03123456789', 'سرگودھا', 'active', '2024-04-28 22:26:40', '2024-04-28 22:26:40');
+ INSERT INTO `customers` (`id`, `name`, `phone`, `area`, `status`, `created_at`, `updated_at`) VALUES
+ (NULL, 'حمزہ سرور' , '03123456789', 'سرگودھا', 'active', '2024-04-28 22:26:40', '2024-04-28 22:26:40');
+INSERT INTO `customers` (`id`, `name`, `phone`, `area`, `status`, `created_at`, `updated_at`) VALUES
+ (NULL, 'حمزہ سرور' , '03123456789', 'سرگودھا', 'active', '2024-04-28 22:26:40', '2024-04-28 22:26:40');
+INSERT INTO `customers` (`id`, `name`, `phone`, `area`, `status`, `created_at`, `updated_at`) VALUES
+ (NULL, 'حمزہ سرور' , '03123456789', 'سرگودھا', 'active', '2024-04-28 22:26:40', '2024-04-28 22:26:40');
+ INSERT INTO `customers` (`id`, `name`, `phone`, `area`, `status`, `created_at`, `updated_at`) VALUES
+ (NULL, 'حمزہ سرور' , '03123456789', 'سرگودھا', 'active', '2024-04-28 22:26:40', '2024-04-28 22:26:40');
+INSERT INTO `customers` (`id`, `name`, `phone`, `area`, `status`, `created_at`, `updated_at`) VALUES
+ (NULL, 'حمزہ سرور' , '03123456789', 'سرگودھا', 'active', '2024-04-28 22:26:40', '2024-04-28 22:26:40');
+INSERT INTO `customers` (`id`, `name`, `phone`, `area`, `status`, `created_at`, `updated_at`) VALUES
+ (NULL, 'حمزہ سرور' , '03123456789', 'سرگودھا', 'active', '2024-04-28 22:26:40', '2024-04-28 22:26:40');
+
+INSERT INTO `customers` (`id`, `name`, `phone`, `area`, `status`, `created_at`, `updated_at`) VALUES
+ (NULL, 'حمزہ سرور' , '03123456789', 'سرگودھا', 'active', '2024-04-28 22:26:40', '2024-04-28 22:26:40');
+INSERT INTO `customers` (`id`, `name`, `phone`, `area`, `status`, `created_at`, `updated_at`) VALUES
+ (NULL, 'حمزہ سرور' , '03123456789', 'سرگودھا', 'active', '2024-04-28 22:26:40', '2024-04-28 22:26:40');
+INSERT INTO `customers` (`id`, `name`, `phone`, `area`, `status`, `created_at`, `updated_at`) VALUES
+ (NULL, 'حمزہ سرور' , '03123456789', 'سرگودھا', 'active', '2024-04-28 22:26:40', '2024-04-28 22:26:40');
+ INSERT INTO `customers` (`id`, `name`, `phone`, `area`, `status`, `created_at`, `updated_at`) VALUES
+ (NULL, 'حمزہ سرور' , '03123456789', 'سرگودھا', 'active', '2024-04-28 22:26:40', '2024-04-28 22:26:40');
+INSERT INTO `customers` (`id`, `name`, `phone`, `area`, `status`, `created_at`, `updated_at`) VALUES
+ (NULL, 'حمزہ سرور' , '03123456789', 'سرگودھا', 'active', '2024-04-28 22:26:40', '2024-04-28 22:26:40');
+INSERT INTO `customers` (`id`, `name`, `phone`, `area`, `status`, `created_at`, `updated_at`) VALUES
+ (NULL, 'حمزہ سرور' , '03123456789', 'سرگودھا', 'active', '2024-04-28 22:26:40', '2024-04-28 22:26:40');
+ INSERT INTO `customers` (`id`, `name`, `phone`, `area`, `status`, `created_at`, `updated_at`) VALUES
+ (NULL, 'حمزہ سرور' , '03123456789', 'سرگودھا', 'active', '2024-04-28 22:26:40', '2024-04-28 22:26:40');
+INSERT INTO `customers` (`id`, `name`, `phone`, `area`, `status`, `created_at`, `updated_at`) VALUES
+ (NULL, 'حمزہ سرور' , '03123456789', 'سرگودھا', 'active', '2024-04-28 22:26:40', '2024-04-28 22:26:40');
+INSERT INTO `customers` (`id`, `name`, `phone`, `area`, `status`, `created_at`, `updated_at`) VALUES
+ (NULL, 'حمزہ سرور' , '03123456789', 'سرگودھا', 'active', '2024-04-28 22:26:40', '2024-04-28 22:26:40');
+
+INSERT INTO `customers` (`id`, `name`, `phone`, `area`, `status`, `created_at`, `updated_at`) VALUES
+ (NULL, 'حمزہ سرور' , '03123456789', 'سرگودھا', 'active', '2024-04-28 22:26:40', '2024-04-28 22:26:40');
+INSERT INTO `customers` (`id`, `name`, `phone`, `area`, `status`, `created_at`, `updated_at`) VALUES
+ (NULL, 'حمزہ سرور' , '03123456789', 'سرگودھا', 'active', '2024-04-28 22:26:40', '2024-04-28 22:26:40');
+INSERT INTO `customers` (`id`, `name`, `phone`, `area`, `status`, `created_at`, `updated_at`) VALUES
+ (NULL, 'حمزہ سرور' , '03123456789', 'سرگودھا', 'active', '2024-04-28 22:26:40', '2024-04-28 22:26:40');
+ INSERT INTO `customers` (`id`, `name`, `phone`, `area`, `status`, `created_at`, `updated_at`) VALUES
+ (NULL, 'حمزہ سرور' , '03123456789', 'سرگودھا', 'active', '2024-04-28 22:26:40', '2024-04-28 22:26:40');
+INSERT INTO `customers` (`id`, `name`, `phone`, `area`, `status`, `created_at`, `updated_at`) VALUES
+ (NULL, 'حمزہ سرور' , '03123456789', 'سرگودھا', 'active', '2024-04-28 22:26:40', '2024-04-28 22:26:40');
+INSERT INTO `customers` (`id`, `name`, `phone`, `area`, `status`, `created_at`, `updated_at`) VALUES
+ (NULL, 'حمزہ سرور' , '03123456789', 'سرگودھا', 'active', '2024-04-28 22:26:40', '2024-04-28 22:26:40');
+ INSERT INTO `customers` (`id`, `name`, `phone`, `area`, `status`, `created_at`, `updated_at`) VALUES
+ (NULL, 'حمزہ سرور' , '03123456789', 'سرگودھا', 'active', '2024-04-28 22:26:40', '2024-04-28 22:26:40');
+INSERT INTO `customers` (`id`, `name`, `phone`, `area`, `status`, `created_at`, `updated_at`) VALUES
+ (NULL, 'حمزہ سرور' , '03123456789', 'سرگودھا', 'active', '2024-04-28 22:26:40', '2024-04-28 22:26:40');
+INSERT INTO `customers` (`id`, `name`, `phone`, `area`, `status`, `created_at`, `updated_at`) VALUES
+ (NULL, 'حمزہ سرور' , '03123456789', 'سرگودھا', 'active', '2024-04-28 22:26:40', '2024-04-28 22:26:40');
+
+INSERT INTO `customers` (`id`, `name`, `phone`, `area`, `status`, `created_at`, `updated_at`) VALUES
+ (NULL, 'حمزہ سرور' , '03123456789', 'سرگودھا', 'active', '2024-04-28 22:26:40', '2024-04-28 22:26:40');
+INSERT INTO `customers` (`id`, `name`, `phone`, `area`, `status`, `created_at`, `updated_at`) VALUES
+ (NULL, 'حمزہ سرور' , '03123456789', 'سرگودھا', 'active', '2024-04-28 22:26:40', '2024-04-28 22:26:40');
+INSERT INTO `customers` (`id`, `name`, `phone`, `area`, `status`, `created_at`, `updated_at`) VALUES
+ (NULL, 'حمزہ سرور' , '03123456789', 'سرگودھا', 'active', '2024-04-28 22:26:40', '2024-04-28 22:26:40');
+ INSERT INTO `customers` (`id`, `name`, `phone`, `area`, `status`, `created_at`, `updated_at`) VALUES
+ (NULL, 'حمزہ سرور' , '03123456789', 'سرگودھا', 'active', '2024-04-28 22:26:40', '2024-04-28 22:26:40');
+INSERT INTO `customers` (`id`, `name`, `phone`, `area`, `status`, `created_at`, `updated_at`) VALUES
+ (NULL, 'حمزہ سرور' , '03123456789', 'سرگودھا', 'active', '2024-04-28 22:26:40', '2024-04-28 22:26:40');
+INSERT INTO `customers` (`id`, `name`, `phone`, `area`, `status`, `created_at`, `updated_at`) VALUES
+ (NULL, 'حمزہ سرور' , '03123456789', 'سرگودھا', 'active', '2024-04-28 22:26:40', '2024-04-28 22:26:40');
+ INSERT INTO `customers` (`id`, `name`, `phone`, `area`, `status`, `created_at`, `updated_at`) VALUES
+ (NULL, 'حمزہ سرور' , '03123456789', 'سرگودھا', 'active', '2024-04-28 22:26:40', '2024-04-28 22:26:40');
+INSERT INTO `customers` (`id`, `name`, `phone`, `area`, `status`, `created_at`, `updated_at`) VALUES
+ (NULL, 'حمزہ سرور' , '03123456789', 'سرگودھا', 'active', '2024-04-28 22:26:40', '2024-04-28 22:26:40');
+INSERT INTO `customers` (`id`, `name`, `phone`, `area`, `status`, `created_at`, `updated_at`) VALUES
+ (NULL, 'حمزہ سرور' , '03123456789', 'سرگودھا', 'active', '2024-04-28 22:26:40', '2024-04-28 22:26:40');
+
+INSERT INTO `customers` (`id`, `name`, `phone`, `area`, `status`, `created_at`, `updated_at`) VALUES
+ (NULL, 'حمزہ سرور' , '03123456789', 'سرگودھا', 'active', '2024-04-28 22:26:40', '2024-04-28 22:26:40');
+INSERT INTO `customers` (`id`, `name`, `phone`, `area`, `status`, `created_at`, `updated_at`) VALUES
+ (NULL, 'حمزہ سرور' , '03123456789', 'سرگودھا', 'active', '2024-04-28 22:26:40', '2024-04-28 22:26:40');
+INSERT INTO `customers` (`id`, `name`, `phone`, `area`, `status`, `created_at`, `updated_at`) VALUES
+ (NULL, 'حمزہ سرور' , '03123456789', 'سرگودھا', 'active', '2024-04-28 22:26:40', '2024-04-28 22:26:40');
+ INSERT INTO `customers` (`id`, `name`, `phone`, `area`, `status`, `created_at`, `updated_at`) VALUES
+ (NULL, 'حمزہ سرور' , '03123456789', 'سرگودھا', 'active', '2024-04-28 22:26:40', '2024-04-28 22:26:40');
+INSERT INTO `customers` (`id`, `name`, `phone`, `area`, `status`, `created_at`, `updated_at`) VALUES
+ (NULL, 'حمزہ سرور' , '03123456789', 'سرگودھا', 'active', '2024-04-28 22:26:40', '2024-04-28 22:26:40');
+INSERT INTO `customers` (`id`, `name`, `phone`, `area`, `status`, `created_at`, `updated_at`) VALUES
+ (NULL, 'حمزہ سرور' , '03123456789', 'سرگودھا', 'active', '2024-04-28 22:26:40', '2024-04-28 22:26:40');
+ INSERT INTO `customers` (`id`, `name`, `phone`, `area`, `status`, `created_at`, `updated_at`) VALUES
+ (NULL, 'حمزہ سرور' , '03123456789', 'سرگودھا', 'active', '2024-04-28 22:26:40', '2024-04-28 22:26:40');
+INSERT INTO `customers` (`id`, `name`, `phone`, `area`, `status`, `created_at`, `updated_at`) VALUES
+ (NULL, 'حمزہ سرور' , '03123456789', 'سرگودھا', 'active', '2024-04-28 22:26:40', '2024-04-28 22:26:40');
+INSERT INTO `customers` (`id`, `name`, `phone`, `area`, `status`, `created_at`, `updated_at`) VALUES
+ (NULL, 'حمزہ سرور' , '03123456789', 'سرگودھا', 'active', '2024-04-28 22:26:40', '2024-04-28 22:26:40');
+
+INSERT INTO `customers` (`id`, `name`, `phone`, `area`, `status`, `created_at`, `updated_at`) VALUES
+ (NULL, 'حمزہ سرور' , '03123456789', 'سرگودھا', 'active', '2024-04-28 22:26:40', '2024-04-28 22:26:40');
+INSERT INTO `customers` (`id`, `name`, `phone`, `area`, `status`, `created_at`, `updated_at`) VALUES
+ (NULL, 'حمزہ سرور' , '03123456789', 'سرگودھا', 'active', '2024-04-28 22:26:40', '2024-04-28 22:26:40');
+INSERT INTO `customers` (`id`, `name`, `phone`, `area`, `status`, `created_at`, `updated_at`) VALUES
+ (NULL, 'حمزہ سرور' , '03123456789', 'سرگودھا', 'active', '2024-04-28 22:26:40', '2024-04-28 22:26:40');
+ INSERT INTO `customers` (`id`, `name`, `phone`, `area`, `status`, `created_at`, `updated_at`) VALUES
+ (NULL, 'حمزہ سرور' , '03123456789', 'سرگودھا', 'active', '2024-04-28 22:26:40', '2024-04-28 22:26:40');
+INSERT INTO `customers` (`id`, `name`, `phone`, `area`, `status`, `created_at`, `updated_at`) VALUES
+ (NULL, 'حمزہ سرور' , '03123456789', 'سرگودھا', 'active', '2024-04-28 22:26:40', '2024-04-28 22:26:40');
+INSERT INTO `customers` (`id`, `name`, `phone`, `area`, `status`, `created_at`, `updated_at`) VALUES
+ (NULL, 'حمزہ سرور' , '03123456789', 'سرگودھا', 'active', '2024-04-28 22:26:40', '2024-04-28 22:26:40');
+ INSERT INTO `customers` (`id`, `name`, `phone`, `area`, `status`, `created_at`, `updated_at`) VALUES
+ (NULL, 'حمزہ سرور' , '03123456789', 'سرگودھا', 'active', '2024-04-28 22:26:40', '2024-04-28 22:26:40');
+INSERT INTO `customers` (`id`, `name`, `phone`, `area`, `status`, `created_at`, `updated_at`) VALUES
+ (NULL, 'حمزہ سرور' , '03123456789', 'سرگودھا', 'active', '2024-04-28 22:26:40', '2024-04-28 22:26:40');
+INSERT INTO `customers` (`id`, `name`, `phone`, `area`, `status`, `created_at`, `updated_at`) VALUES
+ (NULL, 'حمزہ سرور' , '03123456789', 'سرگودھا', 'active', '2024-04-28 22:26:40', '2024-04-28 22:26:40');
+
+INSERT INTO `customers` (`id`, `name`, `phone`, `area`, `status`, `created_at`, `updated_at`) VALUES
+ (NULL, 'حمزہ سرور' , '03123456789', 'سرگودھا', 'active', '2024-04-28 22:26:40', '2024-04-28 22:26:40');
+INSERT INTO `customers` (`id`, `name`, `phone`, `area`, `status`, `created_at`, `updated_at`) VALUES
+ (NULL, 'حمزہ سرور' , '03123456789', 'سرگودھا', 'active', '2024-04-28 22:26:40', '2024-04-28 22:26:40');
+INSERT INTO `customers` (`id`, `name`, `phone`, `area`, `status`, `created_at`, `updated_at`) VALUES
+ (NULL, 'حمزہ سرور' , '03123456789', 'سرگودھا', 'active', '2024-04-28 22:26:40', '2024-04-28 22:26:40');
+ INSERT INTO `customers` (`id`, `name`, `phone`, `area`, `status`, `created_at`, `updated_at`) VALUES
+ (NULL, 'حمزہ سرور' , '03123456789', 'سرگودھا', 'active', '2024-04-28 22:26:40', '2024-04-28 22:26:40');
+INSERT INTO `customers` (`id`, `name`, `phone`, `area`, `status`, `created_at`, `updated_at`) VALUES
+ (NULL, 'حمزہ سرور' , '03123456789', 'سرگودھا', 'active', '2024-04-28 22:26:40', '2024-04-28 22:26:40');
+INSERT INTO `customers` (`id`, `name`, `phone`, `area`, `status`, `created_at`, `updated_at`) VALUES
+ (NULL, 'حمزہ سرور' , '03123456789', 'سرگودھا', 'active', '2024-04-28 22:26:40', '2024-04-28 22:26:40');
+ INSERT INTO `customers` (`id`, `name`, `phone`, `area`, `status`, `created_at`, `updated_at`) VALUES
+ (NULL, 'حمزہ سرور' , '03123456789', 'سرگودھا', 'active', '2024-04-28 22:26:40', '2024-04-28 22:26:40');
+INSERT INTO `customers` (`id`, `name`, `phone`, `area`, `status`, `created_at`, `updated_at`) VALUES
+ (NULL, 'حمزہ سرور' , '03123456789', 'سرگودھا', 'active', '2024-04-28 22:26:40', '2024-04-28 22:26:40');
+INSERT INTO `customers` (`id`, `name`, `phone`, `area`, `status`, `created_at`, `updated_at`) VALUES
+ (NULL, 'حمزہ سرور' , '03123456789', 'سرگودھا', 'active', '2024-04-28 22:26:40', '2024-04-28 22:26:40');
+
+INSERT INTO `customers` (`id`, `name`, `phone`, `area`, `status`, `created_at`, `updated_at`) VALUES
+ (NULL, 'حمزہ سرور' , '03123456789', 'سرگودھا', 'active', '2024-04-28 22:26:40', '2024-04-28 22:26:40');
+INSERT INTO `customers` (`id`, `name`, `phone`, `area`, `status`, `created_at`, `updated_at`) VALUES
+ (NULL, 'حمزہ سرور' , '03123456789', 'سرگودھا', 'active', '2024-04-28 22:26:40', '2024-04-28 22:26:40');
+INSERT INTO `customers` (`id`, `name`, `phone`, `area`, `status`, `created_at`, `updated_at`) VALUES
+ (NULL, 'حمزہ سرور' , '03123456789', 'سرگودھا', 'active', '2024-04-28 22:26:40', '2024-04-28 22:26:40');
+ INSERT INTO `customers` (`id`, `name`, `phone`, `area`, `status`, `created_at`, `updated_at`) VALUES
+ (NULL, 'حمزہ سرور' , '03123456789', 'سرگودھا', 'active', '2024-04-28 22:26:40', '2024-04-28 22:26:40');
+INSERT INTO `customers` (`id`, `name`, `phone`, `area`, `status`, `created_at`, `updated_at`) VALUES
+ (NULL, 'حمزہ سرور' , '03123456789', 'سرگودھا', 'active', '2024-04-28 22:26:40', '2024-04-28 22:26:40');
+INSERT INTO `customers` (`id`, `name`, `phone`, `area`, `status`, `created_at`, `updated_at`) VALUES
+ (NULL, 'حمزہ سرور' , '03123456789', 'سرگودھا', 'active', '2024-04-28 22:26:40', '2024-04-28 22:26:40');
+ INSERT INTO `customers` (`id`, `name`, `phone`, `area`, `status`, `created_at`, `updated_at`) VALUES
+ (NULL, 'حمزہ سرور' , '03123456789', 'سرگودھا', 'active', '2024-04-28 22:26:40', '2024-04-28 22:26:40');
+INSERT INTO `customers` (`id`, `name`, `phone`, `area`, `status`, `created_at`, `updated_at`) VALUES
+ (NULL, 'حمزہ سرور' , '03123456789', 'سرگودھا', 'active', '2024-04-28 22:26:40', '2024-04-28 22:26:40');
+INSERT INTO `customers` (`id`, `name`, `phone`, `area`, `status`, `created_at`, `updated_at`) VALUES
+ (NULL, 'حمزہ سرور' , '03123456789', 'سرگودھا', 'active', '2024-04-28 22:26:40', '2024-04-28 22:26:40');
+
+INSERT INTO `customers` (`id`, `name`, `phone`, `area`, `status`, `created_at`, `updated_at`) VALUES
+ (NULL, 'حمزہ سرور' , '03123456789', 'سرگودھا', 'active', '2024-04-28 22:26:40', '2024-04-28 22:26:40');
+INSERT INTO `customers` (`id`, `name`, `phone`, `area`, `status`, `created_at`, `updated_at`) VALUES
+ (NULL, 'حمزہ سرور' , '03123456789', 'سرگودھا', 'active', '2024-04-28 22:26:40', '2024-04-28 22:26:40');
+INSERT INTO `customers` (`id`, `name`, `phone`, `area`, `status`, `created_at`, `updated_at`) VALUES
+ (NULL, 'حمزہ سرور' , '03123456789', 'سرگودھا', 'active', '2024-04-28 22:26:40', '2024-04-28 22:26:40');
+ INSERT INTO `customers` (`id`, `name`, `phone`, `area`, `status`, `created_at`, `updated_at`) VALUES
+ (NULL, 'حمزہ سرور' , '03123456789', 'سرگودھا', 'active', '2024-04-28 22:26:40', '2024-04-28 22:26:40');
+INSERT INTO `customers` (`id`, `name`, `phone`, `area`, `status`, `created_at`, `updated_at`) VALUES
+ (NULL, 'حمزہ سرور' , '03123456789', 'سرگودھا', 'active', '2024-04-28 22:26:40', '2024-04-28 22:26:40');
+INSERT INTO `customers` (`id`, `name`, `phone`, `area`, `status`, `created_at`, `updated_at`) VALUES
+ (NULL, 'حمزہ سرور' , '03123456789', 'سرگودھا', 'active', '2024-04-28 22:26:40', '2024-04-28 22:26:40');
+ 
